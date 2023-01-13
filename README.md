@@ -2,11 +2,7 @@
 
 ### <div align="center">I'm Dajeong Yun, a Server developer 👨‍💻</div>
 
-</br>
 
- - 🔭 I’m currently working on [Commerce Project](https://github.com/f-lab-edu/LiveCommerce)
-
-   </br>
 
 ## My Skill Set
 
