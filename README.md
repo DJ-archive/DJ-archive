@@ -2,7 +2,11 @@
 
 ### <div align="center">I'm Dajeong Yun, a Server developer 👨‍💻</div>
 
+</br>
 
+ - 🔭 I’m currently working on [Commerce Project](https://github.com/f-lab-edu/LiveCommerce)
+
+   </br>
 
 ## My Skill Set
 
@@ -22,7 +26,7 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fafafa"/>
 </div>
 
-   
+
 
 
 
