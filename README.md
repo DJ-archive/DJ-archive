@@ -1,4 +1,4 @@
-### Hi there :smiley:
+### <div align="center"> Hi there :smiley:</div>
 
 ### <div align="center">I'm Dajeong Yun, a Server developer 👨‍💻</div>
 
