@@ -28,9 +28,7 @@
 
 ## Github Status
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DJ-archive&show_icons=true&count_private=true&hide_border=true&theme=buefy" align="center" /></div>  
-
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DJ-archive&show_icons=true&count_private=true&hide_border=true&theme=buefy" align="center" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=7djyun7" align="center" /></div>  
 
 ## Connect with me
 
